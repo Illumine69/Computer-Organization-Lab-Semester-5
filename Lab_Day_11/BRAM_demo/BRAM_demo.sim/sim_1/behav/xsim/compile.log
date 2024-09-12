@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/TA/2023_Autumn/BRAM_demo/BRAM_demo.srcs/sources_1/ip/bram_mod/sim/bram_mod.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bram_mod
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/TA/2023_Autumn/BRAM_demo/BRAM_demo.srcs/sources_1/new/topmod.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module topmod
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/TA/2023_Autumn/BRAM_demo/BRAM_demo.srcs/sim_1/new/test_bram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_bram

@@ -1,0 +1,4 @@
+## TODO
+
+1. Add extra outputs to the instruction decoder for register 2 nd regiseter 1 in case of immediate values
+    this is because the mux cant handle R2 + Imm since both are input to the same mux in the current design
